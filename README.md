@@ -1,6 +1,6 @@
 # MSc Project Portfolio
 
-This repository serves as a central hub for all my MSc projects.
+This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/) projects.
 
 ---
 
