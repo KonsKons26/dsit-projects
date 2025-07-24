@@ -7,7 +7,7 @@ This repository serves as a central hub for all my MSc projects.
 ## Clustering Algorithms
 
 **Professor: Konstantinos Koutroumpas**  
-**All written in MATLAB**
+**Uses MATLAB**
 
 <!-- - **First assignment**
     - *Summary:* 
@@ -28,7 +28,7 @@ This repository serves as a central hub for all my MSc projects.
 ## Biostatistics
 
 **Professor: Dionisios Linardatos**  
-**All code written in MATLAB**
+**Uses MATLAB**
 
 - **First Exercise**
     - *Summary:* General hypothesis tests.
@@ -39,3 +39,14 @@ This repository serves as a central hub for all my MSc projects.
     - *Summary:* PCA, ANOVA, hypothesis tests.
     - *Link:* https://github.com/KonsKons26/biostat_ex2
     <!-- - *Grade:* 9.3/10 -->
+
+
+## Bioinformatics
+
+**Professors: Martin Reczko - Alexandros Dimopoulos**  
+**Uses Bash and CLI tools**
+
+- **Final project**
+    - *Summary:* Germline short variant discovery (SNPs + Indels) with gatk.
+    - *Link:* https://github.com/KonsKons26/bioinformatics_project
+    <!-- - *Grade:* 9.65 / 10 -->
