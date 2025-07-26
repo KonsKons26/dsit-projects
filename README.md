@@ -26,6 +26,11 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
     - *Link:* https://github.com/KonsKons26/biostat_ex1
     <!-- - *Grade:* 9.7/10 -->
 
+- **Second Exercise**
+    - *Summary:* PCA, ANOVA, hypothesis tests.
+    - *Link:* https://github.com/KonsKons26/biostat_ex2
+    <!-- - *Grade:* 9.3/10 -->
+
 ## Clustering Algorithms
 
 **Professor: [Konstantinos D. Koutroumbas](https://dsit.di.uoa.gr/koutroumbas-cv/)**  
@@ -45,12 +50,6 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
     - *Summary:* Clustering of the pixels of a hyperspectral image to plant varieties.
     - *Link:* https://github.com/KonsKons26/clust_algos_project
     <!-- - *Grade:* 10/10 -->
-
-
-- **Second Exercise**
-    - *Summary:* PCA, ANOVA, hypothesis tests.
-    - *Link:* https://github.com/KonsKons26/biostat_ex2
-    <!-- - *Grade:* 9.3/10 -->
 
 ## Machine Learning
 
@@ -81,4 +80,24 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
     - *Summary:* recreation of the [DALI](https://en.wikipedia.org/wiki/Structural_alignment#DALI) algorithm.
     - *Link:* https://github.com/KonsKons26/py-dali
     <!-- - *Grade:* 10/10 -->
+
+## Algorithms in Structural Bioinformatics
+
+**Professors: [Ioannis Emiris](https://www.athenarc.gr/en/people/527) - [Evangelia D. Chrysina](https://dsit.di.uoa.gr/chrysina-cv/)**  
+**Project uses Python**
+
+- **First assignment**
+    - *Summary:* 3D structure inspection and comparisons.
+    - *Link:* https://github.com/KonsKons26/algos_in_struct_bio_a1
+    <!-- - *Grade:* 10/10 -->
+
+- **Second assignment**
+    - *Summary:* RNA folding and NMR data.
+    - *Link:* https://github.com/KonsKons26/algos_in_struct_bio_a2
+    <!-- - *Grade:* 9.9/10 -->
+
+- **Final Project**
+    - *Summary:* TBA
+    - *Link:* TBA
+    <!-- - *Grade:* ?/10 -->
 
