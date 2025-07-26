@@ -4,10 +4,12 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ---
 
+# First Semester
+
 ## Clustering Algorithms
 
-**Professor: Konstantinos Koutroumpas**  
-**Uses MATLAB**
+**Professor: [Konstantinos D. Koutroumbas](https://dsit.di.uoa.gr/koutroumbas-cv/)**  
+**Projects in MATLAB**
 
 <!-- - **First assignment**
     - *Summary:* 
@@ -22,13 +24,13 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 - **Final project**
     - *Summary:* Clustering of the pixels of a hyperspectral image to plant varieties.
     - *Link:* https://github.com/KonsKons26/clust_algos_project
-    <!-- - *Grade:* 10 / 10 -->
+    <!-- - *Grade:* 10/10 -->
 
 
 ## Biostatistics
 
-**Professor: Dionisios Linardatos**  
-**Uses MATLAB**
+**Professor: [Dionisios Linardatos](https://dsit.di.uoa.gr/linardatos-cv/)**  
+**Projects in MATLAB**
 
 - **First Exercise**
     - *Summary:* General hypothesis tests.
@@ -43,10 +45,30 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Bioinformatics
 
-**Professors: Martin Reczko - Alexandros Dimopoulos**  
-**Uses Bash and CLI tools**
+**Professors: [Martin Reczko](https://www.fleming.gr/research/ifbr/staff-scientists/reczko-lab) - [Alexandros Dimopoulos](https://dsit.di.uoa.gr/dimopoulos-cv/)**  
+**Projects use bioinformatics tools, Bash**
 
 - **Final project**
     - *Summary:* Germline short variant discovery (SNPs + Indels) with gatk.
     - *Link:* https://github.com/KonsKons26/bioinformatics_project
-    <!-- - *Grade:* 9.65 / 10 -->
+    <!-- - *Grade:* 9.65/10 -->
+
+## Machine Learning
+
+**Professor: [Stavros Perantonis](https://dsit.di.uoa.gr/perantonis-cv/)**  
+**Projects in Python**
+
+- **First Project**
+    - *Summary:* Construction of classical ML algorithms.
+    - *Link:* https://github.com/KonsKons26/ml_assignment_1
+    <!-- - *Grade:* 10/10-->
+
+- **Second Project**
+    - *Summary:* Classification of human actions using images.
+    - *Link:* https://github.com/KonsKons26/ml_assignment_2
+    <!-- - *Grade:* 10/10-->
+
+---
+
+# Second Semester
+
