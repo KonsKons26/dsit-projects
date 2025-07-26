@@ -115,3 +115,23 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
     - *Summary:* Image classification.
     - *Link:* https://github.com/KonsKons26/Img_analysis_assignment_2
     <!-- - *Grade:* ?/10 -->
+
+## Machine Learning in Computational Biology
+
+**Professor: [Elias S. Manolakos](https://dsit.di.uoa.gr/manolakos-cv/)**  
+**Project uses Python**
+
+- **First assignment**
+    - *Summary:* Classification task.
+    - *Link:* https://github.com/KonsKons26/mlcb-a1
+    <!-- - *Grade:* ?/10 -->
+
+- **Second assignment**
+    - *Summary:* Repeated Nested Cross Validation.
+    - *Link:* https://github.com/KonsKons26/mlcb-a2
+    <!-- - *Grade:* ?/10 -->
+
+- **Final Project**
+    - *Summary:* TBA
+    - *Link:* TBA
+    <!-- - *Grade:* ?/10 -->
