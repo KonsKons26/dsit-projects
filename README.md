@@ -101,3 +101,17 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
     - *Link:* TBA
     <!-- - *Grade:* ?/10 -->
 
+## Image analysis and Processing
+
+**Professor: [Vassilis Katsouros](https://www.athenarc.gr/en/people/203)**  
+**Project uses Python**
+
+- **First assignment**
+    - *Summary:* Image enhancement and detection of features.
+    - *Link:* https://github.com/KonsKons26/Img_analysis_assignment_1
+    <!-- - *Grade:* ?/10 -->
+
+- **Second assignment**
+    - *Summary:* Image classification.
+    - *Link:* https://github.com/KonsKons26/Img_analysis_assignment_2
+    <!-- - *Grade:* ?/10 -->
