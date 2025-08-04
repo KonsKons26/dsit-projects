@@ -8,7 +8,8 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Bioinformatics
 
-**Professors: [Martin Reczko](https://www.fleming.gr/research/ifbr/staff-scientists/reczko-lab) - [Alexandros Dimopoulos](https://dsit.di.uoa.gr/dimopoulos-cv/)****Projects use bioinformatics tools, Bash**
+**Professors: [Martin Reczko](https://www.fleming.gr/research/ifbr/staff-scientists/reczko-lab) - [Alexandros Dimopoulos](https://dsit.di.uoa.gr/dimopoulos-cv/)**\
+**Projects use bioinformatics tools, Bash**
 
 - **Final project**
   - *Summary:* Germline short variant discovery (SNPs + Indels) with gatk.
@@ -18,7 +19,8 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Biostatistics
 
-**Professor: [Dionisios Linardatos](https://dsit.di.uoa.gr/linardatos-cv/)****Projects in MATLAB**
+**Professor: [Dionisios Linardatos](https://dsit.di.uoa.gr/linardatos-cv/)**\
+**Projects in MATLAB**
 
 - **First Exercise**
 
@@ -35,7 +37,7 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Clustering Algorithms
 
-**Professor: [Konstantinos D. Koutroumbas](https://dsit.di.uoa.gr/koutroumbas-cv/)**
+**Professor: [Konstantinos D. Koutroumbas](https://dsit.di.uoa.gr/koutroumbas-cv/)**\
 **Projects in MATLAB**
 
 <!-- - **First assignment**
@@ -58,7 +60,8 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Machine Learning
 
-**Professor: [Stavros Perantonis](https://dsit.di.uoa.gr/perantonis-cv/)****Projects in Python**
+**Professor: [Stavros Perantonis](https://dsit.di.uoa.gr/perantonis-cv/)**\
+**Projects in Python**
 
 - **First Project**
 
@@ -79,7 +82,9 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Algorithms in Molecular Biology
 
-**Professor: [Theodore Dalamagas](https://www.athenarc.gr/en/people/295)****Project uses Python****NOTE:** I don't consider this project completed, I plan on continuing to improve it.
+**Professor: [Theodore Dalamagas](https://www.athenarc.gr/en/people/295)**\
+**Project uses Python**\
+**NOTE:** I don't consider this project completed, I plan on continuing to improve it.
 
 - **Final Project**
   - *Summary:* recreation of the [DALI](https://en.wikipedia.org/wiki/Structural_alignment#DALI) algorithm.
@@ -89,7 +94,8 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Algorithms in Structural Bioinformatics
 
-**Professors: [Ioannis Emiris](https://www.athenarc.gr/en/people/527) - [Evangelia D. Chrysina](https://dsit.di.uoa.gr/chrysina-cv/)****Project uses Python**
+**Professors: [Ioannis Emiris](https://www.athenarc.gr/en/people/527) - [Evangelia D. Chrysina](https://dsit.di.uoa.gr/chrysina-cv/)**\
+**Project uses Python**
 
 - **First assignment**
 
@@ -112,7 +118,8 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Image analysis and Processing
 
-**Professor: [Vassilis Katsouros](https://www.athenarc.gr/en/people/203)****Project uses Python**
+**Professor: [Vassilis Katsouros](https://www.athenarc.gr/en/people/203)**\
+**Project uses Python**
 
 - **First assignment**
 
@@ -129,7 +136,8 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
 
 ## Machine Learning in Computational Biology
 
-**Professor: [Elias S. Manolakos](https://dsit.di.uoa.gr/manolakos-cv/)****Project uses Python**
+**Professor: [Elias S. Manolakos](https://dsit.di.uoa.gr/manolakos-cv/)**\
+**Project uses Python**
 
 - **First assignment**
 
