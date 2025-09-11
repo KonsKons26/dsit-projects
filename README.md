@@ -111,8 +111,8 @@ This repository serves as a central hub for all my [MSc](https://dsit.di.uoa.gr/
   <!-- - *Grade:* 9.9/10 -->
 - **Final Project**
 
-  - *Summary:* TBA
-  - *Link:* TBA
+  - *Summary:* Kinase conformation classification using topological features.
+  - *Link:* https://github.com/KonsKons26/MLtopKin
 
   <!-- - *Grade:* ?/10 -->
 
